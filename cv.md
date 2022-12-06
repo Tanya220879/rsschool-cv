@@ -2,6 +2,6 @@
 
 ## Contacts
 
-### Education
+## Education
 
-#### Work experience
+## Work experience
