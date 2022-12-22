@@ -5,6 +5,10 @@ html {
     scroll-behavior: smooth; 
 }
 body {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between; */
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -56,9 +60,20 @@ body {
 .section {
     width: 100%;
 }
+
 @media (max-width: 768px) {
 .section {
     width: 100%;
 }
 }
+footer {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
 
+/* header {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+} */
